@@ -1,0 +1,8 @@
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-211\Projects\CPRG211D-LabInterfacesAbstract\bin\Debug\CPRG211D-LabInterfacesAbstract.exe.config
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-211\Projects\CPRG211D-LabInterfacesAbstract\bin\Debug\CPRG211D-LabInterfacesAbstract.exe
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-211\Projects\CPRG211D-LabInterfacesAbstract\bin\Debug\CPRG211D-LabInterfacesAbstract.pdb
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-211\Projects\CPRG211D-LabInterfacesAbstract\obj\Debug\CPRG211D-LabInterfacesAbstract.csproj.AssemblyReference.cache
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-211\Projects\CPRG211D-LabInterfacesAbstract\obj\Debug\CPRG211D-LabInterfacesAbstract.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-211\Projects\CPRG211D-LabInterfacesAbstract\obj\Debug\CPRG211D-LabInterfacesAbstract.csproj.CoreCompileInputs.cache
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-211\Projects\CPRG211D-LabInterfacesAbstract\obj\Debug\CPRG211D-LabInterfacesAbstract.exe
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-211\Projects\CPRG211D-LabInterfacesAbstract\obj\Debug\CPRG211D-LabInterfacesAbstract.pdb
